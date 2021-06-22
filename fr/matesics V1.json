@@ -1,40 +1,41 @@
 {
-  "PlanetEarth": {
-    "0": {
+  "PlanetEarth": [
+    {
       "materic": "L'Europe ",
+      "matasfaferic": "Europasfase",
       "country": "Biélorussie",
       "population": "9,5 millions",
       "CityCapital": "Minsk"
     },
-    "1": {
+    {
       "materic": "Asie",
       "country": "Chine",
       "population": "1,386 milliard",
       "CityCapital": "Pékin"
     },
-    "2": {
+    {
       "materic": "Australie",
       "country": "Australie",
       "population": "24,6 millions",
       "CityCapital": "Canberra"
     },
-    "3": {
+    {
       "materic": "Afrique",
       "country": "Egypte",
       "population": "97,55 millions",
       "CityCapital": "Caire"
     },
-    "4": {
+    {
       "materic": "Amérique du Nord",
       "country": "Etats-Unis",
       "population": "327,2 millions",
       "CityCapital": "Washington"
     },
-    "5": {
+    {
       "materic": "Amérique du Sud",
       "country": "Brésil",
       "population": "209,3 millions",
       "CityCapital": "Brasilia"
     }
-  }
+  ]
 }
